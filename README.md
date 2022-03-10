@@ -1,2 +1,4 @@
 # 2103703_FauziyyahZayyanNur_C12021
-Tugas Praktikum RPL
+(This repository is for my university assignment)
+
+My name is Fauziyyah Zayyan Nur, and y'all can call me Zayyan, FZ, or anything u like
